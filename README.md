@@ -8,7 +8,7 @@ To write a python program to implement the multi class classification algorithm 
 
 ## Related Theoritical Concept:
 ### Multiclass Classification
-In multi-class classification, the neural network has the same number of output nodes as the number of classes. Each output node belongs to some class and outputs a score for that class. Class is a category for example Predicting animal class from an animal image is an example of multi-class classification, where each animal can belong to only one category.\
+In multi-class classification, the neural network has the same number of output nodes as the number of classes. Each output node belongs to some class and outputs a score for that class. Class is a category for example Predicting animal class from an animal image is an example of multi-class classification, where each animal can belong to only one category.
 
 The number of classifier models depends on the classification technique we are applying to.\
 •One vs. All:- N-class instances then N binary classifier models.\
